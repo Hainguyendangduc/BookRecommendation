@@ -1,4 +1,4 @@
-# BookRecommendation
+# The content-based book recommendation system
 
 The content-based book recommendation system is a book recommendation system based on a number of fields of the books that have a high degree of similarity with the input book.
 
