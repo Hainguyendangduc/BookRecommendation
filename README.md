@@ -12,9 +12,12 @@ Before you continue, ensure you meet the following requirements:
 How to install
 1. Download data set goodbooks_10k:
 https://www.kaggle.com/datasets/zygmunt/goodbooks-10k
-2. Run the file book_recommendation.ipynb and create the files df_1.pkl and df_2.csv.
-3. (on windows) py -m streamlit run app.py.
-   (on linux) streamlit run app.py.
+2. Run the file book_recommendation.ipynb and create the files df_1.pkl and df_2.csv
+3. Run app:
+
+(on windows) py -m streamlit run app.py
+
+(on linux) streamlit run app.py
    
   
 Sources:
