@@ -20,6 +20,7 @@ https://www.kaggle.com/datasets/zygmunt/goodbooks-10k
 (on linux) streamlit run app.py
    
   
+  
 Sources:
 https://365datascience.com/tutorials/how-to-build-recommendation-system-in-python/
 
