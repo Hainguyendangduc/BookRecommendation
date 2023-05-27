@@ -6,7 +6,7 @@ Prerequisites
 
 Before you continue, ensure you meet the following requirements:
 
-* You have installed Python and some libralies in Python such as Pandas 
+* You have installed Python, some libralies in Python such as Pandas and Streamlit
 * You have a basic understanding of streamlit.
 
 How to install
